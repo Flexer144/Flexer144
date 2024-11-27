@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Flexer144
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning programmer.
-- 📫 You can reach me via Telegram at @LNI_avg.
-- 😄 Pronouns: He.
+- 📫 You can reach me via Telegram at @ephemeral6.
 
 <!---
 Flexer144/Flexer144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
